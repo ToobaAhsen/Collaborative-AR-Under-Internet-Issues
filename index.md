@@ -7,12 +7,13 @@ This research focuses on collaborative where two users, wearing Augmented Realit
 In these videos, one user acts as a helper, who provides instructions or advise, while another user, the worker, perform manipulations on the 3D virtual models.
 
 
+
+<!-- [![Watch the video](https://github.com/ToobaAhsen/Collaborative-AR-Under-Internet-Issues/blob/94d5d1aaa5fc33b1fbc51f5b2ffb142ad45fbb37/TypesOfLosses.mp4) -->
+<!-- ({https://drive.google.com/file/d/1q3UlvQ8S4upHuxlPCRMbs9VAy4x8EQYL/view?usp=sharing} "Link Title") -->
 ### Effects of Different Types of Losses on Movements of 3D Virtual Objects / Models
 ```markdown
 This video is from the perspective of the helper.
-
-<!-- [![Watch the video](https://github.com/ToobaAhsen/Collaborative-AR-Under-Internet-Issues/blob/94d5d1aaa5fc33b1fbc51f5b2ffb142ad45fbb37/TypesOfLosses.mp4) -->
-[Link](https://www.youtube.com/watch?v=hjMx8EuyZJ8&ab_channel=BitBionic)
+[Link text Here](https://video-to-markdown.netlify.app/)
 
 ```
 
