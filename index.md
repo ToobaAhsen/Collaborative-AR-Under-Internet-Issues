@@ -14,7 +14,6 @@ In these videos, one user acts as a helper, who provides instructions or advise,
 ### Effects of Different Types of Losses on Movements of 3D Virtual Objects / Models
 ```markdown
 This video is from the perspective of the helper.
-[GitHub](http://github.com)
 
 ```
 
