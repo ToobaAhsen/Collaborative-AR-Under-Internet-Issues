@@ -11,6 +11,8 @@ In these videos, one user acts as a helper, who provides instructions or advise,
 ```markdown
 This video is from the perspective of the helper.
 
+<!-- [![Watch the video](https://github.com/ToobaAhsen/Collaborative-AR-Under-Internet-Issues/blob/94d5d1aaa5fc33b1fbc51f5b2ffb142ad45fbb37/TypesOfLosses.mp4) -->
+[Link](https://www.youtube.com/watch?v=hjMx8EuyZJ8&ab_channel=BitBionic)
 
 ```
 
