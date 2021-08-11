@@ -10,11 +10,11 @@ In these videos, one user acts as a helper, who provides instructions or advise,
 
 <!-- [![Watch the video](https://github.com/ToobaAhsen/Collaborative-AR-Under-Internet-Issues/blob/94d5d1aaa5fc33b1fbc51f5b2ffb142ad45fbb37/TypesOfLosses.mp4) -->
 <!-- ({https://drive.google.com/file/d/1q3UlvQ8S4upHuxlPCRMbs9VAy4x8EQYL/view?usp=sharing} "Link Title") -->
-<!-- [Link text Here](https://video-to-markdown.netlify.app/) -->
+<!-- [Link text Here]() -->
 ### Effects of Different Types of Losses on Movements of 3D Virtual Objects / Models
 ```markdown
 This video is from the perspective of the helper.
-
+[GitHub](http://github.com)
 
 ```
 
