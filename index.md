@@ -6,13 +6,11 @@ This research focuses on collaborative where two users, wearing Augmented Realit
 
 In these videos, one user acts as a helper, who provides instructions or advise, while another user, the worker, perform manipulations on the 3D virtual models.
 
-<a href="https://www.google.com">link text</a>
 ### Effects of Different Types of Losses on Movements of 3D Virtual Objects / Models
-```markdown
-This video is from the perspective of the helper.
-Click [here](https://drive.google.com/file/d/1q3UlvQ8S4upHuxlPCRMbs9VAy4x8EQYL/view?usp=sharing).
-[Link to Google](https://www.google.com)
-```
+<div class="myDiv">
+  <p>This video is from the perspective of the helper.</p>
+  <a href="https://drive.google.com/file/d/1q3UlvQ8S4upHuxlPCRMbs9VAy4x8EQYL/view?usp=sharing">Link</a>
+</div>
 
 ### User's Coping Mechanisms to Deal With the Effects of Outages  
 #### Batching Instructions
