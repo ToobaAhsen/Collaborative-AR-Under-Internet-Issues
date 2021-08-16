@@ -14,7 +14,7 @@ In these videos, one user acts as a helper, who provides instructions or advise,
 ### Effects of Different Types of Losses on Movements of 3D Virtual Objects / Models
 ```markdown
 This video is from the perspective of the helper.
-
+Click [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) for a video example.
 ```
 
 ### User's Coping Mechanisms to Deal With the Effects of Outages  
