@@ -10,6 +10,7 @@ In these videos, one user acts as a helper, who provides instructions or advise,
 ```markdown
 This video is from the perspective of the helper.
 Click [here](https://drive.google.com/file/d/1q3UlvQ8S4upHuxlPCRMbs9VAy4x8EQYL/view?usp=sharing).
+[Link to Google](https://www.google.com)
 ```
 
 ### User's Coping Mechanisms to Deal With the Effects of Outages  
