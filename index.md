@@ -2,11 +2,11 @@
 
 This page contains videos that supplement our research on how internet issues (particularly outages) affect users' collaboratove behaviour during joint Augmented Reality tasks. 
 
-This research focuses on collaborative where two users, wearing Augmented Reality headsets, collaborate using 3D virtual models. 
+This research focuses on collaboration where two users, wearing Augmented Reality headsets, collaborate using 3D virtual objects/models. 
 
-In these videos, one user acts as a helper, who provides instructions or advise, while another user, the worker, perform manipulations on the 3D virtual models.
+In these videos, one user acts as a helper, who provides instructions or advise, while another user, the worker, perform manipulations on the 3D virtual objects/models.
 
-### Effects of Different Types of Losses on Movements of 3D Virtual Objects / Models
+### Effects of Different Types of Internet Losses on Movements of 3D Virtual Objects / Models
 <div class="myDiv">
   <p>This video is from the perspective of the helper.</p>
   <a href="https://drive.google.com/file/d/1emfcg82jajIkBm3OSWhq1DEFG4p-YFvD/view?usp=sharing">Link</a>
